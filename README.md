@@ -1,8 +1,9 @@
 <h1 align="center">Bot Rosy</h1>
 <h3 align="center">Repport bugs for bot Rosy</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=clachoverclan&label=Profile%20views&color=0e75b6&style=flat" alt="clachoverclan" /> </p>
-
+- [Invite Bot](https://discord.com/api/oauth2/authorize?client_id=886221024574713869&permissions=8&scope=bot%20applications.commands)
+- [Support Server](https://discord.gg/DRBy4XJ9tt)
+<h3 align="left">Library used:</h3>
 - Database : [Quick.db](https://quickdb.js.org)
 
 <h3 align="left">Connect with me:</h3>
