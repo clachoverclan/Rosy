@@ -1,10 +1,25 @@
 <h1 align="center">Bot Rosy</h1>
 <h3 align="center">Repport bugs for bot Rosy</h3>
 
+<h3 align="left">Repport Bugs : Methods</h3>
+
+To create a new bug report, go to the [Issues](https://github.com/clachoverclan/Rosy/issues) and create a new issue.
+Please apply the following information to help me organize.
+
+- Correct Title
+- Correct information
+- What does the bugs do
+- Describe how to produce the bugs
+
+<h3 align="left">Invite Bot and Support Server :</h3>
+
 - [Invite Bot](https://discord.com/api/oauth2/authorize?client_id=886221024574713869&permissions=8&scope=bot%20applications.commands)
 - [Support Server](https://discord.gg/DRBy4XJ9tt)
+
 <h3 align="left">Library used:</h3>
+
 - Database : [Quick.db](https://quickdb.js.org)
+- Heberger : [OVH](https://www.ovhcloud.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
